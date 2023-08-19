@@ -1,0 +1,4 @@
+# python
+# The first step to all programming is to print the string 'Hello World!' to the screen
+hw = "Hello World!"
+print(hw)    #OP: Hello World! 
